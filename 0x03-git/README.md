@@ -1,2 +1,2 @@
 # 0x03-git
-In this project we will learn to use GIT line commands
+In this project we will learn to use advance GIT commands
